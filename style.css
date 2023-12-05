@@ -203,6 +203,9 @@ footer > span:last-child {
       }
 }
 @media only screen and (min-width: 2000px) {
+    body{
+        height: 100vh;
+    }  
     #vision > figure {
         flex-basis: 20%;
         flex-grow: 1;
